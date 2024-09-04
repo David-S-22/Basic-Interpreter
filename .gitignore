@@ -9,3 +9,4 @@ src/build/CMakeFiles
 src/build/CMakeCache.txt
 src/build/Makefile
 src/build/cmake_install.cmake
+src/build/Compiler
