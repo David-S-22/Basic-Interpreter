@@ -5,3 +5,7 @@ build/CMakeCache.txt
 build/Compiler
 build/Makefile
 build/cmake_install.cmake
+src/build/CMakeFiles
+src/build/CMakeCache.txt
+src/build/Makefile
+src/build/cmake_install.cmake
