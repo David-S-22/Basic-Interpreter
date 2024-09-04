@@ -1,0 +1,7 @@
+build/.cmake/api/v1/reply
+build/CMakeFiles
+build/~/.config/nvim/undo
+build/CMakeCache.txt
+build/Compiler
+build/Makefile
+build/cmake_install.cmake
